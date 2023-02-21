@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: Arnóbio Aires
+Feito com ♥ by :wave: Arnóbio Aires
