@@ -35,7 +35,7 @@ O calendário da Copa
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode acessar o projeto através [DESSE LINK](https://arnobioaires.github.io/tabelacopa).
 
 ## :memo: Licença
 
