@@ -35,7 +35,7 @@ O calendário da Copa
 
 ## 🔖 Layout
 
-Você pode acessar o projeto através [DESSE LINK](https://arnobioaires.github.io/tabelacopa).
+Você pode acessar o projeto através [DESSE LINK](https://arnobioaires.github.io/nlw-copa).
 
 ## :memo: Licença
 
